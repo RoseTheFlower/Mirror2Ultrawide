@@ -14,6 +14,8 @@ Tested on the latest Steam version at 2560x1080, 3840x1080 and 5760x1080.
 
 You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
 
+---
+
 ## Mirror 2: Project X 超寬以上補丁
 
 此補丁可以移除遊戲內左右黑條並將遊戲解析度拉伸至21:9比例或更寬。
@@ -30,7 +32,9 @@ You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](http
 
 由KyoriAsh所翻譯
 
-## Mirror 2: Project X 超宽以上补丁
+---
+
+### Mirror 2: Project X 超宽以上补丁
 
 此补丁可以移除游戏内左右黑条并将游戏分辨率拉伸至21:9比例或更宽。
 
