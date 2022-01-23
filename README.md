@@ -16,7 +16,7 @@ You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](http
 
 ---
 
-## Mirror 2: Project X 超寬以上補丁
+### Mirror 2: Project X 超寬以上補丁
 
 此補丁可以移除遊戲內左右黑條並將遊戲解析度拉伸至21:9比例或更寬。
 
