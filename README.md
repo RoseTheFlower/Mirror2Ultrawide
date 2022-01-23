@@ -1,4 +1,6 @@
 ## Mirror 2: Project X ultrawide and wider
+![](preview.jpg)
+
 The solution removes the side black bars that appear in the game at 21:9 and wider resolutions.
 
 1. [Download the archive](/../../releases).
@@ -12,5 +14,3 @@ Tested on the latest Steam version at 2560x1080, 3840x1080 and 5760x1080.
 You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
 
 ![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/Mirror2Ultrawide/total?style=flat-square)
-
-![](preview.jpg)
