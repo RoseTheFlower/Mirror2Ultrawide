@@ -1,5 +1,6 @@
 ## Mirror 2: Project X ultrawide and wider
 ![](preview.jpg)
+![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/Mirror2Ultrawide/total?style=flat-square)
 
 The solution removes the side black bars that appear in the game at 21:9 and wider resolutions.
 
@@ -27,6 +28,8 @@ You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](http
 
 您可以購買一杯[咖啡](https://ko-fi.com/rozziroxx)或成為[贊助者](https://www.patreon.com/rozzi)以支持我的作品。
 
+由KyoriAsh所翻譯
+
 ## Mirror 2: Project X 超宽以上补丁
 
 此补丁可以移除游戏内左右黑条并将游戏分辨率拉伸至21:9比例或更宽。
@@ -41,4 +44,4 @@ You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](http
 
 您可以购买一杯[咖啡](https://ko-fi.com/rozziroxx)或成为[赞助者](https://www.patreon.com/rozzi)以支持我的作品。
 
-![GitHub all releases](https://img.shields.io/github/downloads/RoseTheFlower/Mirror2Ultrawide/total?style=flat-square)
+由KyoriAsh所翻译
