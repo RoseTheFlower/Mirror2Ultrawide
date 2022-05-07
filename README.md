@@ -4,15 +4,15 @@
 
 The solution removes the side black bars that appear in the game at 21:9 and wider resolutions.
 
-1. [Download the archive](/../../releases).
-2. Unpack the files to the \ProjectX\Mirror2\Binaries\Win64\ folder inside the game directory.
+1. [Download the archives](/../../releases).
+2. Unpack the files to the \ProjectX\Mirror2\Binaries\Win64\ and \HomeX\Mirror2_HomeX\Binaries\Win64\ folders inside the game directory.
 3. Launch the game and select the Borderless mode to have it fill your screen irrespective of the selected resolution.
 
 To uninstall, simply remove or move the files.
 
 Tested on the latest Steam version at 2560x1080, 3840x1080 and 5760x1080.
 
-You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
+You can buy me a [coffee](https://www.buymeacoffee.com/rozzi), become a [patron](https://www.patreon.com/rozzi) or even [donate crypto](/../../../../RoseTheFlower/UltrawideIndex/blob/main/donations/overview.md) if you like my work.
 
 ---
 
